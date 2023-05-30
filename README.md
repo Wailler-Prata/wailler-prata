@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 class="mb-3">QA Analyst.</h3>
+<h3 class="mb-3">QA Engineer.</h3>
 
 <ul>
   <li><p>Python; JavaScript</p></li>
