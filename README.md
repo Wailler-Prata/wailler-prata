@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 class="mb-3">QA Analyst.</h3>
-<a> visite minha web-page: https://wailler-prata.github.io/Wailler-Prata/ </a>
+
 <p>Python; JavaScript</p>
 <p>Cypress; Selenium; Postman; Cucumber; SoapUI</p>
 <p>Mongo DB; MySQL; SQL-Server; PL/SQL</p>
+
+<a href="https://wailler-prata.github.io/Wailler-Prata/"> Clique aqui</a> e visite minha Web-Page
 
