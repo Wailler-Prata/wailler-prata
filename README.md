@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 -->
 <h3 class="mb-3">QA Analyst.</h3>
 
-<p>Python; JavaScript</p>
-<p>Cypress; Selenium; Postman; Cucumber; SoapUI</p>
-<p>Mongo DB; MySQL; SQL-Server; PL/SQL</p>
+<ul>
+  <li><p>Python; JavaScript</p></li>
+  <li><p>Cypress; Selenium; Postman; Cucumber; SoapUI</p></li>
+  <li><p>Mongo DB; MySQL; SQL-Server; PL/SQL</p></li>
+ </ul>
+
 
 <a href="https://wailler-prata.github.io/Wailler-Prata/"> Clique aqui</a> e visite minha Web-Page
 
