@@ -21,5 +21,5 @@ Here are some ideas to get you started:
  </ul>
 
 
-<a href="https://wailler-prata.github.io/Wailler-Prata/"> Clique aqui</a> e visite minha Web-Page
+<a href="https://wailler-prata.github.io/wailler-prata/"> Clique aqui</a> e visite minha Web-Page
 
