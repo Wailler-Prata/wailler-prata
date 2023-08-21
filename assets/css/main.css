@@ -499,7 +499,7 @@ input, select, textarea {
 		}
 
 			.row > * {
-				padding: 50px 0 0 50px;
+				padding: 2.5rem 0 0 50px;
 			}
 
 			.row.gtr-uniform {
@@ -1716,7 +1716,7 @@ input, select, textarea {
 		.image.featured {
 			display: block;
 			width: 100%;
-			margin: 0 0 2em 0;
+			/*margin: 0 0 2em 0;*/
 		}
 
 /* Button */
