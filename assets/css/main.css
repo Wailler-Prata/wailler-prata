@@ -21,6 +21,12 @@ section, summary, time, mark, audio, video {
 	vertical-align: baseline;
 }
 
+a {
+    color: #292e3c !important;
+    text-decoration: none;
+    background-color: transparent;
+}
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
