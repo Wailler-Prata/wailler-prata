@@ -27,6 +27,12 @@ a {
     background-color: transparent;
 }
 
+#footer a {
+    color: white !important;
+    text-decoration: none;
+    background-color: transparent;
+}
+
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
@@ -501,7 +507,7 @@ input, select, textarea {
 
 		.row {
 			margin-top: -50px;
-			margin-left: -50px;
+			margin-left: -50px !important;
 		}
 
 			.row > * {
@@ -2993,7 +2999,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				height: 17em;
+				height: 23em;
 			}
 
 				.homepage #header {
